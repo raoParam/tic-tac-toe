@@ -4,7 +4,7 @@ A classic two-player Tic Tac Toe game built using HTML, CSS and JavaScript.
 
 ## Live Demo
 
-[Play Tic Tac Toe](t3-tictactoe.netlify.app)
+[Play Tic Tac Toe](https://t3-tictactoe.netlify.app)
 
 ## Preview
 ## Desktop
